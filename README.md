@@ -1,3 +1,8 @@
+# React To Do List App
+**React To Do List App** is the to do list app built using HTML, CSS, and ReactJS.
+### Live Demo
+https://abdilfaruq.github.io/react-todolist-app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
