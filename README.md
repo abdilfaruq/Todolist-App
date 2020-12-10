@@ -1,5 +1,5 @@
 # Todolist-App
-**To Do List App** is the to do list app built using HTML, CSS, and ReactJS.
+**To Do List App** is the react to do list app built using HTML, CSS, and ReactJS.
 ### Live Demo
 https://abdilfaruq.github.io/react-todolist-app/
 
